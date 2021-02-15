@@ -7,4 +7,4 @@
 #### EDA of the customer data and model building with hyperparameter tunning can be found in the Jupyter Notebook. More details on the different stages of project can be learned from the attached presentation.
 
 #### This project was implemented end-to-end with deployment of the best performing model (Gradient Boosting Classifier with 0.988 accuracy and 0.96 recall) in AWS EC2 instance. One can interact with the model using the link given below - 
-http://ec2-18-188-133-240.us-east-2.compute.amazonaws.com:8080/
+http://ec2-18-220-39-5.us-east-2.compute.amazonaws.com:8080/
